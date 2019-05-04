@@ -27,7 +27,7 @@ header {
 	background-color: #D2B48C;
     height: 150px;
     background-image: url(javajamlogo.jpg);
-    background: url(javajamlogo.jpg) no repeat;
+    background: url(javajamlogo.jpg) no-repeat;
 }
 nav a:link {color: #FEF6C2; }
 nav a:visited {color: #D2B48C; }
